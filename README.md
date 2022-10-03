@@ -25,10 +25,10 @@ The main driver program my_mastermind.java calls on the packages methods in "nee
 File should already be compiled. if you get an error run the following in order.
 1. Compile the package.
     * cd in to /mypack from project directory.
-    * run "javac -d . Solver.java CLIhelper.java"
+    * run "javac -d . Solver.java CLIhelper.java Settings.java"
     * cd .. to go back to project directory.
 2. Compile the main program.
-    * run "javac my_mastermind.java"
+    * run "javac Board.java Game.java my_mastermind.java"
     * 
 #### else
      run "java my_mastermind.java" 
