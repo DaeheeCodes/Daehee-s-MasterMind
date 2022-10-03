@@ -1,6 +1,7 @@
 # Welcome to Daehee's Mastermind
 #### By Daehee Hwang
 
+![Screen Shot 2022-10-03 at 9 34 15 AM](https://user-images.githubusercontent.com/102007615/193631253-4dc075dc-2a8f-4c69-9472-059b77e7d7a7.png)
 
 ----------------------
 ## Task
